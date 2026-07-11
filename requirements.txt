@@ -1,0 +1,9 @@
+# --------------------------------------------
+# Project: Personal Introduction Program
+
+# Description: This project uses only Python's built-in functions and does not require any external libraries or packages.
+
+# Python Version: Python 3.14
+
+# No external dependencies required.
+# --------------------------------------------
